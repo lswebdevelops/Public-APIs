@@ -824,6 +824,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Weather Source**](http://weathersource.com/weather-api) | Powerful Weather API built for systems that demand speed, reliability and heavy load. | **N/A** |
 | [**Weatherstack**](https://weatherstack.com/documentation) | Real-Time & Historical World Weather Data API. | **N/A** |
 | [**Wunderground API**](https://www.wunderground.com/weather/api/) | Reliable data, accurate forecast, & global coverage in 80 languages. | **N/A** |
+| [**VisualCrossing API**](https://www.visualcrossing.com/weather-api/) | Easy Global Weather API, Single history & forecast Weather API | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Credits
